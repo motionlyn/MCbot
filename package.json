@@ -1,7 +1,7 @@
 {
-  "name": "aternos-afk-bot",
+  "name": "MCbot",
   "version": "1.0.0",
-  "description": "Bot AFK mc",
+  "description": "Bot AFK MC name MochiLynCopu",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
