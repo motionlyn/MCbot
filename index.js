@@ -1,9 +1,9 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-  host: 'IP_SERVER_ATERNOS_KAMU.aternos.me', // Ganti dengan IP server Aternos kamu
-  port: 12345, // Ganti dengan Port server Aternos kamu
-  username: 'BotAFK' // Nama akun bot di dalam game
+  host: 'yoshikaaa.aternos.me', // Ganti dengan IP server Aternos kamu
+  port: 19132, // Ganti dengan Port server Aternos kamu
+  username: 'MochiLynCopu' // Nama akun bot di dalam game
 });
 
 bot.on('spawn', () => {
